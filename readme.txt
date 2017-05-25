@@ -1,2 +1,2 @@
 hello dev branch.
-i start it in dev branch.
+Creating a new branch is quick AND simple.
